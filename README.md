@@ -1,6 +1,6 @@
 # Awesome-Personal-Finance-Budgeting
 
-# Top Personal Finance & Budgeting Tools Ecosystem
+## Top Personal Finance & Budgeting Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Local-First Data Ownership, Envelope Budgeting & Self-Hosted Sync*  
